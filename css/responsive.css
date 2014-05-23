@@ -1,0 +1,26 @@
+@media (max-width: 480px) {
+  section.post {
+    margin: 0px;
+  }
+
+  section.post > * {
+    padding: 0 25px;
+  }
+
+  section.post blockquote {
+    padding: 0 25px;
+  }
+
+  section.post ul, section.post ol {
+    margin: 0px;
+    padding-left: 25px;
+  }
+
+  #content {
+    padding: 0px;
+  }
+
+  ul.posts {
+    margin: 5px;
+  }
+}

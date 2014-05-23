@@ -1,9 +1,8 @@
 <br />
-<p>
-  Til next time,<br/>
-  {{ site.signoff }}
-  <span class="muted">{{ page.date | date: "at %H:%M" }}</span>
-</p>
-<p>
-  <img src="/images/scribble3.png" alt="scribble" /> 
+<p id="signoff">
+  <img src="/img/klotter_signoff.png" alt="{{ site.signoff }}" />
+  {% capture time %}{{ page.date | date: "%H:%M" }}{% endcapture %}
+  {% if time != "00:00" %}
+    <span class="time">at {{ time }}</span>
+  {% endif %}
 </p>

@@ -1,0 +1,257 @@
+h1, h2, h3, h4, h5, strong, b {
+  font-weight: 600;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 20px;
+
+  margin: 0;
+  padding: 0;
+
+  color: #303030;
+  background: #f9f9f9;
+}
+
+img {
+  box-sizing: border-box;
+  max-width: 100%;
+
+  border: none;
+}
+
+a {
+  padding: 4px;
+
+  text-decoration: none;
+
+  color: #269;
+  background-image: url(/img/line.png);
+  background-repeat: repeat-x;
+  background-position: left bottom;
+}
+
+hr {
+  margin: 50px 0;
+
+  border: 0;
+  border-bottom: 1px dotted #eee;
+}
+
+header {
+  text-align: center;
+}
+
+header img {
+  max-width: 600px;
+  max-height: 75px;
+}
+
+footer {
+  text-align: center;
+}
+
+footer img {
+  max-width: 600px;
+  max-height: 50px
+}
+
+.date {
+  font-size: 10px;
+  font-weight: 400;
+
+  color: #ccc;
+}
+
+#container {
+  position: relative;
+
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 600px;
+  margin: 25px auto;
+}
+
+/* LINKS */
+
+.links {
+  margin: 1px 0;
+  padding: 25px;
+
+  text-align: center;
+
+  opacity: .5;
+}
+.links:hover {
+  opacity: 1;
+  background: #fff;
+}
+.links a {
+  white-space: nowrap;
+}
+
+/* CONTENT */
+
+#content {
+  padding: 25px 50px;
+
+  background: #fff;
+}
+
+/* POSTS */
+
+ul.posts {
+  line-height: 2em;
+
+  margin: 0 -45px;
+  padding: 0;
+
+  list-style: none;
+  overflow: hidden;
+}
+ul.posts li {
+  white-space: nowrap;
+}
+ul.posts .date {
+  display: inline-block;
+
+  width: 100px;
+
+  text-align: right;
+  text-transform: uppercase;
+
+  color: #ccc;
+}
+
+/* POST PAGING */
+
+.paging a {
+  opacity: .5;
+}
+.paging a:hover {
+  opacity: 1;
+}
+.paging .left, .paging .right {
+  font-size: 60px;
+
+  position: fixed;
+  top: 50%;
+  left: 50%;
+}
+.paging .left {
+  margin-left: -340px;
+}
+.paging .right {
+  margin-left: 310px;
+}
+
+/* POST */
+
+section.post {
+  font-size: 15px;
+  line-height: 1.6em;
+
+  margin: 0 -50px;
+  padding: 25px 0;
+
+  text-align: left;
+
+  border-top: 0;
+}
+section.post * {
+  max-width: 100%;
+}
+section.post > * {
+  padding: 0 50px;
+}
+section.post h1 {
+  line-height: 1.5em;
+
+  margin-bottom: 60px;
+
+  text-align: center;
+  text-transform: uppercase;
+}
+section.post blockquote {
+  display: block;
+  overflow: hidden;
+
+  margin: 25px 0;
+  padding: 0 50px;
+
+  color: #666;
+  border-width: 0 2px;
+  border-style: solid;
+  border-color: #ccc;
+  background: #f9f9f9;
+}
+section.post ul, section.post ol {
+  margin: 25px;
+  padding-left: 25px;
+}
+section.post li .highlight {
+  padding: 0 15px;
+}
+section.post li p {
+  margin-bottom: 5px;
+}
+section.post iframe {
+  width: 100%;
+  padding: 0;
+  margin: 0 auto !important;
+}
+section.post #signoff {
+  margin: 0;
+}
+section.post #signoff img {
+  height: 25px;
+  vertical-align: middle;
+}
+
+
+/* SYNTAX HIGHLIGHTING */
+
+.highlight {
+  margin: 0;
+  padding: 0;
+
+  background-color: #1d1f21; /* from Tomorrow Night */
+}
+
+pre {
+  font-family: 'Inconsolata', monospace;
+  line-height: 1.2em;
+
+  overflow-x: auto;
+
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px 0;
+}
+
+code {
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.3em;
+
+  padding: 4px;
+}
+
+/* DISQUS */
+#disqus_thread {
+  background-color: #fff;
+  padding: 0 25px;
+  min-height: 100px;
+}
+
+/* 404 */
+
+p.notFound {
+  text-align: center;
+}
