@@ -1,3 +1,5 @@
+@import url("normalize.css");
+
 h1, h2, h3, h4, h5, strong, b {
   font-weight: 600;
 }
@@ -255,3 +257,5 @@ code {
 p.notFound {
   text-align: center;
 }
+
+@import url("responsive.css");
