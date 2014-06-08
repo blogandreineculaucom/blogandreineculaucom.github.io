@@ -14,8 +14,16 @@ links:
 timezone: Europe/Stockholm
 future: true
 show_drafts: false
-highlighter: pygments
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions:
+  - autolink
+  - disable_indented_code_blocks
+  - fenced_code_blocks
+  - no_intra_emphasis
+  - strikethrough
+  - superscript
+  - underline
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:year-:month-:day-:title
@@ -23,19 +31,6 @@ relative_permalinks: false
 
 safe: true
 lsi: false
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: true
-  coderay:
-    coderay_line_numbers: nil
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
 
 gems:
   - jekyll-mentions
