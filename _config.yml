@@ -1,14 +1,14 @@
-title:            Scribble
-description:      A jekyll theme. Because I scribble.
-url:              # Site url.
-baseurl:          /klotter
-signoff:          # Your name.
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+title:            "Andrei Neculau's blog"
+description:      "I'd rather be an optimist and a fool than a pessimist and right."
+url:              http://blog.andreineculau.com
+baseurl:
+signoff:          Andrei
+disqus_shortname: blogandreineculaucom
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
   - name: About
-    url: /klotter/about.html
+    url: http://andreineculau.com
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Europe/Stockholm
@@ -26,7 +26,7 @@ redcarpet:
   - underline
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:year-:month-:day-:title
+permalink: /:year/:month/:day/:title
 relative_permalinks: false
 
 safe: true
