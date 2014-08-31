@@ -6,8 +6,8 @@ permalink: /2009/08/kth_ict_su_dsv_campus_maps/
 categories:
   - Uncategorized
 ---
-{| align=&#8221;right&#8221;  
-|- valign=&#8221;top&#8221;  
+{| align="right"  
+|- valign="top"  
 | \_\_TOC\_\_  
 | [[Image:KTH.ICT.SU.DSV.jpg|200px|center]]{{:KTH.ICT SU.DSV TOC}}  
 |}
