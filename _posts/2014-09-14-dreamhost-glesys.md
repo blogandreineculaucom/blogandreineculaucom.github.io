@@ -11,6 +11,8 @@ tags:
   - webhost
 ---
 
+**UPDATE**: "We cannot provide refunds beyond your initial 97 days" - so there goes 55 USD of prepayment as well.
+
 I've been a [Dreamhost](http://dreamhost.com) customer (both privately, and for [www.life-link.org](http://old.life-link.org)) for ~7 years, after moving from the Swedish [CrystOne](http://crystone.se).
 
 Pleasant in the beginning, fast servers, live chat, quick customer support.
