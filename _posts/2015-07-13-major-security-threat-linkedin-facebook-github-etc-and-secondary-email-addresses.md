@@ -45,7 +45,7 @@ Soon after I got home, and started thinking about password managers, changing pa
 
 Everything looked legit. Gmail says andrei.neculau@yahoo.com [has an account on Google+](https://plus.google.com/103719053882244206786/posts), then there is [a sale add](http://www.anuntul.org/anunt-vand-pickhammer-picamer-bosch-sgh-27-0f0-131277.html), etc.
 
-I've always knew this day (bumping online into someone with the same name) would come, just didn't know when and how.
+I've always known this day (bumping online into someone with the same name) would come, just didn't know when and how.
 
 ## Let's deal with LinkedIn! (their version)
 
