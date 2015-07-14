@@ -18,7 +18,7 @@ tags:
 
 **If you have secondary email addresses associated to your online accounts, remove them NOW!**
 
-**Chances of getting your account hacked increases not n-fold, but logarithmic with each secondary email that you add due to poor security.**
+**Chances of getting your account hacked increases not n-fold, but exponentially with each secondary email that you add due to poor security.**
 
 ## In short
 
