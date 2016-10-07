@@ -14,27 +14,37 @@ links:
 timezone: Europe/Stockholm
 future: true
 show_drafts: false
-markdown: redcarpet
-redcarpet:
-  extensions:
-  - autolink
-  - disable_indented_code_blocks
-  - fenced_code_blocks
-  - no_intra_emphasis
-  - strikethrough
-  - superscript
-  - underline
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  math_engine: mathjax # can't change
+
+  # extensions:
+  # - autolink
+  # - disable_indented_code_blocks
+  # - fenced_code_blocks
+  # - no_intra_emphasis
+  # - strikethrough
+  # - superscript
+  # - underline
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:year/:month/:day/:title
 relative_permalinks: false
 
-safe: true
+# github-pages can't change. https://help.github.com/articles/configuring-jekyll/
 lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
 
 gems:
+  - jekyll-coffeescript
+  - jekyll-feed
   - jekyll-mentions
-  - jemoji
   - jekyll-redirect-from
   - jekyll-sitemap
-  - jekyll-feed
+  - jemoji
