@@ -1,6 +1,7 @@
 <meta charset="utf8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-{% feed_meta %}
+<!-- { % feed_meta % } not working, thus we create the feed link manually -->
+<link type="application/atom+xml" rel="alternate" href="{{ site.baseurl }}/feed.xml" title="{{ site.title }}" />
 <!-- - -->
 <link href="{{ site.baseurl }}/img/fav.png" rel="shortcut icon">
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
