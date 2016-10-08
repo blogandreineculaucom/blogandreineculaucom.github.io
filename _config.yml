@@ -44,7 +44,7 @@ gist:
 gems:
   - jekyll-coffeescript
   - jekyll-feed
-  # - jekyll-gist
+  - jekyll-gist
   # - jekyll-github-metadata
   - jekyll-mentions
   # - jekyll-paginate
