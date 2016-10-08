@@ -2,7 +2,6 @@
 title: Kasperky freezes when resuming from standy/hibernation
 author: Andrei
 layout: post
-permalink: /2006/11/kasperky-freezes-when-resuming-from-standyhibernation/
 categories:
   - Information Technology
   - Solution

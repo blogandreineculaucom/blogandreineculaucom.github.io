@@ -2,7 +2,6 @@
 title: KTH/DSV New IPv6 Wireless
 author: Andrei
 layout: post
-permalink: /2009/09/kthdsv-new-ipv6-wireless/
 categories:
   - I/Me/My
   - Information Technology

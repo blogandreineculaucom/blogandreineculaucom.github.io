@@ -2,7 +2,6 @@
 title: Dan Puric - Cine suntem
 author: Andrei
 layout: post
-permalink: /2008/06/dan-puric-cine-suntem/
 categories:
   - Favs
   - Likes

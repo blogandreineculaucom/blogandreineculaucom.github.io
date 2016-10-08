@@ -2,7 +2,6 @@
 title: Now blogging on...
 author: Andrei
 layout: post
-permalink: /2007/11/now-blogging-on/
 categories:
   - International Citizen
   - Social

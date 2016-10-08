@@ -2,7 +2,6 @@
 title: Making Firefox faster
 author: Andrei
 layout: post
-permalink: /2006/03/making-firefox-faster/
 categories:
   - Information Technology
   - Solution

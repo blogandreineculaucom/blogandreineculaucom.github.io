@@ -2,7 +2,6 @@
 title: Forget KM at KTH/SU
 author: Andrei
 layout: post
-permalink: /2009/03/forget-km-at-kthsu/
 categories:
   - Definition
   - Education

@@ -2,7 +2,6 @@
 title: Studera.nu Pre-Admission
 author: mediawiki
 layout: post
-permalink: /2009/03/studera_nu_pre_admission/
 categories:
   - Uncategorized
 ---

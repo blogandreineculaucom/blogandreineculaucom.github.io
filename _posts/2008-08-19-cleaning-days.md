@@ -2,7 +2,6 @@
 title: Cleaning Days
 author: Andrei
 layout: post
-permalink: /2008/08/cleaning-days/
 series_part:
   - 13
   - 13

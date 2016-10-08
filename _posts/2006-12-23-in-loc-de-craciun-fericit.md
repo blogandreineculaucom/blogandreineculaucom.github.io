@@ -2,7 +2,6 @@
 title: În loc de Crăciun Fericit! :)
 author: Andrei
 layout: post
-permalink: /2006/12/in-loc-de-craciun-fericit/
 categories:
   - Favs
   - Likes

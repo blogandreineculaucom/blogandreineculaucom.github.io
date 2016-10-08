@@ -2,7 +2,6 @@
 title: Pidgin & Gtalk certificate
 author: Andrei
 layout: post
-permalink: /2008/09/pidgin-gtalk-certificate/
 categories:
   - Information Technology
   - Solution

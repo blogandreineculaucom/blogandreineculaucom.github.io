@@ -2,7 +2,6 @@
 title: By request
 author: Andrei
 layout: post
-permalink: /2008/09/by-request/
 series_part:
   - 29
   - 29

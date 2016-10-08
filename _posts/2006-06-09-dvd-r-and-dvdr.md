@@ -2,7 +2,6 @@
 title: DVD-R and DVD+R
 author: Andrei
 layout: post
-permalink: /2006/06/dvd-r-and-dvdr/
 categories:
   - Information Technology
 tags:

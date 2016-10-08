@@ -2,7 +2,6 @@
 title: Romanian î and â
 author: Andrei
 layout: post
-permalink: /2008/05/romanian-and/
 categories:
   - Favs
   - Romania

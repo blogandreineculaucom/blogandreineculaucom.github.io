@@ -2,7 +2,6 @@
 title: No OpenID in WordPress on Dreamhost
 author: Andrei
 layout: post
-permalink: /2009/01/no-openid-in-wordpress-on-dreamhost/
 categories:
   - I/Me/My
   - Information Technology

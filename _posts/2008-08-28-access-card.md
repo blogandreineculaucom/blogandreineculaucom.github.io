@@ -2,7 +2,6 @@
 title: Access Card
 author: Andrei
 layout: post
-permalink: /2008/08/access-card/
 series_part:
   - 21
   - 21

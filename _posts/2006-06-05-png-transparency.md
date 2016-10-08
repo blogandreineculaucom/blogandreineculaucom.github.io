@@ -2,7 +2,6 @@
 title: PNG Transparency
 author: Andrei
 layout: post
-permalink: /2006/06/png-transparency/
 categories:
   - Information Technology
   - Solution

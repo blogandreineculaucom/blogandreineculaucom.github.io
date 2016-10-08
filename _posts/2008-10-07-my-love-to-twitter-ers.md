@@ -2,7 +2,6 @@
 title: My love to Twitter-ers
 author: Andrei
 layout: post
-permalink: /2008/10/my-love-to-twitter-ers/
 categories:
   - Dislikes
   - Information Technology

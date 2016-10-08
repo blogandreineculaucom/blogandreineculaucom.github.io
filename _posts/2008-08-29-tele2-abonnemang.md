@@ -2,7 +2,6 @@
 title: Tele2 Abonnemang
 author: Andrei
 layout: post
-permalink: /2008/08/tele2-abonnemang/
 series_part:
   - 23
   - 23

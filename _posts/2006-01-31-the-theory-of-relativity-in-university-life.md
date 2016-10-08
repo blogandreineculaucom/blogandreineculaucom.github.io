@@ -2,7 +2,6 @@
 title: The Theory of Relativity in University Life
 author: Andrei
 layout: post
-permalink: /2006/01/the-theory-of-relativity-in-university-life/
 categories:
   - Definition
   - Phylosophy

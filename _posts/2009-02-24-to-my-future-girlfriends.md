@@ -2,7 +2,6 @@
 title: To my Future? Girlfriends
 author: Andrei
 layout: post
-permalink: /2009/02/to-my-future-girlfriends/
 categories:
   - Definition
   - Favs

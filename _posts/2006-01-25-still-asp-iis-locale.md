@@ -2,7 +2,6 @@
 title: Still ASP & IIS - Locale
 author: Andrei
 layout: post
-permalink: /2006/01/still-asp-iis-locale/
 categories:
   - Information Technology
   - Solution

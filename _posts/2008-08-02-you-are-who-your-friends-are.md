@@ -2,7 +2,6 @@
 title: You are who your friends are
 author: Andrei
 layout: post
-permalink: /2008/08/you-are-who-your-friends-are/
 categories:
   - Definition
   - Likes

@@ -2,7 +2,6 @@
 title: Sport cu suflet
 author: Andrei
 layout: post
-permalink: /2006/03/suflet-cu-sport/
 categories:
   - Likes
   - Romania

@@ -2,7 +2,6 @@
 title: When the riot gets illogic
 author: Andrei
 layout: post
-permalink: /2008/06/when-the-riot-gets-illogic/
 categories:
   - Dislikes
   - International Citizen

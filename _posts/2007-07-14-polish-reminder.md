@@ -2,7 +2,6 @@
 title: Polish Reminder
 author: Andrei
 layout: post
-permalink: /2007/07/polish-reminder/
 categories:
   - International Citizen
 tags:

@@ -2,7 +2,6 @@
 title: 'Pidgin ICQ: The client version you are using is too old'
 author: Andrei
 layout: post
-permalink: /2008/07/pidgin-icq-the-client-version-you-are-using-is-too-old/
 categories:
   - Information Technology
   - Solution

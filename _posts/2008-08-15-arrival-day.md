@@ -2,7 +2,6 @@
 title: Arrival Day
 author: Andrei
 layout: post
-permalink: /2008/08/arrival-day/
 series_part:
   - 8
   - 8

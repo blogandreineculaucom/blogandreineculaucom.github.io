@@ -2,7 +2,6 @@
 title: andreineculau.com cover page
 author: Andrei
 layout: post
-permalink: /2009/07/andreineculau-com-cover-page/
 categories:
   - Definition
 tags:

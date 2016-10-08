@@ -2,7 +2,6 @@
 title: On the tuition fees for Swedish Higher Education
 author: Andrei
 layout: post
-permalink: /2010/07/on-the-tuition-fees-for-swedish-higher-education/
 categories:
   - Favs
   - Likes

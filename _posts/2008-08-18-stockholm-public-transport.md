@@ -2,7 +2,6 @@
 title: Stockholm Public Transport
 author: Andrei
 layout: post
-permalink: /2008/08/stockholm-public-transport/
 series_part:
   - 9
   - 9

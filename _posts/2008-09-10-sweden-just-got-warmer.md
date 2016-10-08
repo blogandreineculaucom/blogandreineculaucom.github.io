@@ -2,7 +2,6 @@
 title: Sweden just got warmer
 author: Andrei
 layout: post
-permalink: /2008/09/sweden-just-got-warmer/
 series_part:
   - 31
   - 31

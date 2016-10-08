@@ -2,7 +2,6 @@
 title: \"Pro-bono\" lawyers
 author: Andrei
 layout: post
-permalink: /2007/12/pro-bono-lawyers/
 categories:
   - Solution
 ---

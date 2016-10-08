@@ -2,7 +2,6 @@
 title: KTH + DSV + FC Email
 author: Andrei
 layout: post
-permalink: /2008/09/kth-dsv-fc-email/
 series_part:
   - 5
   - 5

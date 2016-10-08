@@ -2,7 +2,6 @@
 title: IIS Multiple ASP Requests gets your application into stalling
 author: Andrei
 layout: post
-permalink: /2006/01/iis-multiple-asp-requests-gets-your-application-into-stalling/
 categories:
   - Information Technology
   - Solution

@@ -2,7 +2,6 @@
 title: AJAX, onDemand JavaScript or Dynamic Script Tags
 author: Andrei
 layout: post
-permalink: /2006/09/ajax-ondemand-javascript-or-dynamic-script-tags/
 categories:
   - Information Technology
   - Solution

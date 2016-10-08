@@ -2,7 +2,6 @@
 title: ...or nothing!
 author: Andrei
 layout: post
-permalink: /2008/07/or-nothing/
 series_part:
   - 2
   - 2

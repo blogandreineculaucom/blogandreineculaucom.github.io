@@ -2,7 +2,6 @@
 title: Counting Weeks at KTH
 author: Andrei
 layout: post
-permalink: /2009/07/counting-weeks-at-kth/
 categories:
   - Education
   - Information Technology

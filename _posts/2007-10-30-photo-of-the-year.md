@@ -2,7 +2,6 @@
 title: Photo of the Year!
 author: Andrei
 layout: post
-permalink: /2007/10/photo-of-the-year/
 categories:
   - Favs
   - Likes

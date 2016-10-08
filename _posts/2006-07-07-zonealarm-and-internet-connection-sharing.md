@@ -2,7 +2,6 @@
 title: ZoneAlarm and Internet Connection Sharing
 author: Andrei
 layout: post
-permalink: /2006/07/zonealarm-and-internet-connection-sharing/
 categories:
   - Information Technology
   - Solution

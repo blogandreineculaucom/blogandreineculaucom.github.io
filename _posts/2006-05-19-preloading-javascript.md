@@ -2,7 +2,6 @@
 title: Preloading JavaScript
 author: Andrei
 layout: post
-permalink: /2006/05/preloading-javascript/
 categories:
   - Information Technology
   - Solution

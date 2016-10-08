@@ -2,7 +2,6 @@
 title: ZenPhoto EXIF Rotation
 author: Andrei
 layout: post
-permalink: /2008/08/zenphoto-exif-rotation/
 categories:
   - Information Technology
   - Solution

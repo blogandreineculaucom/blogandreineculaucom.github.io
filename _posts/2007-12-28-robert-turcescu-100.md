@@ -2,7 +2,6 @@
 title: Robert Turcescu - 100%
 author: Andrei
 layout: post
-permalink: /2007/12/robert-turcescu-100/
 categories:
   - Activist
   - Romania

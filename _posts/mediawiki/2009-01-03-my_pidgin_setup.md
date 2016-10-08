@@ -2,7 +2,6 @@
 title: My Pidgin Setup
 author: mediawiki
 layout: post
-permalink: /2009/01/my_pidgin_setup/
 categories:
   - Uncategorized
 ---

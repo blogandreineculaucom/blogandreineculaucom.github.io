@@ -2,7 +2,6 @@
 title: FastCGI on Dreamhost
 author: Andrei
 layout: post
-permalink: /2009/01/fastcgi-on-dreamhost/
 categories:
   - I/Me/My
   - Information Technology

@@ -2,7 +2,6 @@
 title: Laptop OUT OF ORDER
 author: Andrei
 layout: post
-permalink: /2006/01/laptop-out-of-order/
 categories:
   - I/Me/My
   - Information Technology

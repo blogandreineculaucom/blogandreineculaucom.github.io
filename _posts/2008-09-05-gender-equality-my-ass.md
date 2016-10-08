@@ -2,7 +2,6 @@
 title: Gender equality - my ass!
 author: Andrei
 layout: post
-permalink: /2008/09/gender-equality-my-ass/
 series_part:
   - 28
   - 28

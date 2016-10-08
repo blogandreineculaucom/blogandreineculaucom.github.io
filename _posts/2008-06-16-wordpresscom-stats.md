@@ -2,7 +2,6 @@
 title: WordPress.com Stats
 author: Andrei
 layout: post
-permalink: /2008/06/wordpresscom-stats/
 categories:
   - Information Technology
   - Solution

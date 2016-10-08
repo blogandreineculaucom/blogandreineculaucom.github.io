@@ -2,7 +2,6 @@
 title: The old times..
 author: Andrei
 layout: post
-permalink: /2008/08/the-old-times/
 categories:
   - Likes
   - Romania

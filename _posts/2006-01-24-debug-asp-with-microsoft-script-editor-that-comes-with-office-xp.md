@@ -2,7 +2,6 @@
 title: Debug ASP with Microsoft Script Editor (that comes with Office XP)
 author: Andrei
 layout: post
-permalink: /2006/01/debug-asp-with-microsoft-script-editor-that-comes-with-office-xp/
 categories:
   - Information Technology
   - Solution

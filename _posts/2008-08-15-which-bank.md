@@ -2,7 +2,6 @@
 title: Which Bank?
 author: Andrei
 layout: post
-permalink: /2008/08/which-bank/
 series_part:
   - 7
   - 7

@@ -2,7 +2,6 @@
 title: Svenska Bostäder speed
 author: Andrei
 layout: post
-permalink: /2009/02/svenska-bostader-speed/
 categories:
   - Activist
   - Dislikes

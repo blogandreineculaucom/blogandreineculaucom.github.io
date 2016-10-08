@@ -2,7 +2,6 @@
 title: Lack of fairness (KTH/DSV)
 author: Andrei
 layout: post
-permalink: /2009/09/lack-of-fairness-kthdsv/
 categories:
   - Dislikes
   - Education

@@ -2,7 +2,6 @@
 title: Height and widths - maximum and minimum
 author: Andrei
 layout: post
-permalink: /2006/04/height-and-widths-maximum-and-minimum/
 categories:
   - Information Technology
   - Solution

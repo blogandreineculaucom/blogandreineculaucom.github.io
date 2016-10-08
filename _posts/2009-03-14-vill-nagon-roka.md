@@ -2,7 +2,6 @@
 title: Vill någon röka?
 author: Andrei
 layout: post
-permalink: /2009/03/vill-nagon-roka/
 categories:
   - Activist
   - Dislikes

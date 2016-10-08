@@ -2,7 +2,6 @@
 title: One of the best posts ever! :)
 author: Andrei
 layout: post
-permalink: /2006/12/one-of-the-best-posts-ever/
 categories:
   - Likes
 ---

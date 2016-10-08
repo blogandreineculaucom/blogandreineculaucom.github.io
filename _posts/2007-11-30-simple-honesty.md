@@ -2,7 +2,6 @@
 title: Simple Honesty
 author: Andrei
 layout: post
-permalink: /2007/11/simple-honesty/
 categories:
   - Definition
   - Favs

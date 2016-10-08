@@ -2,7 +2,6 @@
 title: What papers should I take?
 author: Andrei
 layout: post
-permalink: /2008/08/what-papers-should-i-take/
 series_part:
   - 4
   - 4

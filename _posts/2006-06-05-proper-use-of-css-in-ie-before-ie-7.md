@@ -2,7 +2,6 @@
 title: Proper use of CSS in IE before IE 7
 author: Andrei
 layout: post
-permalink: /2006/06/proper-use-of-css-in-ie-before-ie-7/
 categories:
   - Information Technology
   - Solution

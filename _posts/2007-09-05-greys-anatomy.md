@@ -2,7 +2,6 @@
 title: Grey's Anatomy
 author: Andrei
 layout: post
-permalink: /2007/09/greys-anatomy/
 categories:
   - I/Me/My
   - Likes

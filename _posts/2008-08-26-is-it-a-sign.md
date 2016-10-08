@@ -2,7 +2,6 @@
 title: Is it a sign?
 author: Andrei
 layout: post
-permalink: /2008/08/is-it-a-sign/
 series_part:
   - 20
   - 20

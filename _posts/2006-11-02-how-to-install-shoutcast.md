@@ -2,7 +2,6 @@
 title: Install ShoutCast
 author: Andrei
 layout: post
-permalink: /2006/11/how-to-install-shoutcast/
 categories:
   - Information Technology
   - Solution

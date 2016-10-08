@@ -2,7 +2,6 @@
 title: Zone Alarms - Antivirus Update Error
 author: Andrei
 layout: post
-permalink: /2006/06/zone-alarms-antivirus-update-error/
 categories:
   - Information Technology
   - Solution

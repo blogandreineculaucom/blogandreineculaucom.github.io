@@ -2,7 +2,6 @@
 title: Fix for Gmail Manager 0.5.7.2
 author: Andrei
 layout: post
-permalink: /2009/07/fix-for-gmail-manager-0-5-7-2/
 categories:
   - Information Technology
   - Solution

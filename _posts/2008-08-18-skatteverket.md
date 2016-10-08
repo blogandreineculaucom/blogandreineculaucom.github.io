@@ -2,7 +2,6 @@
 title: Skatteverket
 author: Andrei
 layout: post
-permalink: /2008/08/skatteverket/
 series_part:
   - 11
   - 11

@@ -2,7 +2,6 @@
 title: Headline of the week
 author: Andrei
 layout: post
-permalink: /2008/09/headline-of-the-week/
 categories:
   - Likes
   - Social

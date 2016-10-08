@@ -2,7 +2,6 @@
 title: Sodas.. say good-bye!
 author: Andrei
 layout: post
-permalink: /2008/07/sodas-say-good-bye/
 categories:
   - Dislikes
 ---

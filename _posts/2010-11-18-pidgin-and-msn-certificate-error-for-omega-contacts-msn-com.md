@@ -2,7 +2,6 @@
 title: Pidgin and MSN (certificate error for omega.contacts.msn.com)
 author: Andrei
 layout: post
-permalink: /2010/11/pidgin-and-msn-certificate-error-for-omega-contacts-msn-com/
 categories:
   - I/Me/My
   - Information Technology

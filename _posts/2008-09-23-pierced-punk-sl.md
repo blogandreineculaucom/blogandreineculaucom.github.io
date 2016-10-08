@@ -2,7 +2,6 @@
 title: Pierced Punk SL
 author: Andrei
 layout: post
-permalink: /2008/09/pierced-punk-sl/
 series_part:
   - 34
   - 34

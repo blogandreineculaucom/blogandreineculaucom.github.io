@@ -2,7 +2,6 @@
 title: Personnummer & ID kort
 author: Andrei
 layout: post
-permalink: /2008/08/personnummer-id-kort/
 series_part:
   - 15
   - 15

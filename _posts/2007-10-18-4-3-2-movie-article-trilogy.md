@@ -2,7 +2,6 @@
 title: 4-3-2 - Movie Article Trilogy
 author: Andrei
 layout: post
-permalink: /2007/10/4-3-2-movie-article-trilogy/
 categories:
   - Favs
   - Likes

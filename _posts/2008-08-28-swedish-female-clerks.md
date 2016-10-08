@@ -2,7 +2,6 @@
 title: Swedish female clerks
 author: Andrei
 layout: post
-permalink: /2008/08/swedish-female-clerks/
 series_part:
   - 19
   - 19

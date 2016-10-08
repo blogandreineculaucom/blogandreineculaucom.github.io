@@ -2,7 +2,6 @@
 title: A developer's review of webligo's SocialEngine
 author: Andrei
 layout: post
-permalink: /2011/01/an-developers-review-on-webligos-socialengine/
 categories:
   - Dislikes
   - Information Technology

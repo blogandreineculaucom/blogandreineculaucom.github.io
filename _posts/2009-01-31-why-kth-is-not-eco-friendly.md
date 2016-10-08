@@ -2,7 +2,6 @@
 title: Why KTH is not eco-friendly..
 author: Andrei
 layout: post
-permalink: /2009/01/why-kth-is-not-eco-friendly/
 categories:
   - Dislikes
   - Education

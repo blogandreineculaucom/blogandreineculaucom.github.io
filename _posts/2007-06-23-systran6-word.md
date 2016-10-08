@@ -2,7 +2,6 @@
 title: Systran6 - Word
 author: Andrei
 layout: post
-permalink: /2007/06/systran6-word/
 categories:
   - Information Technology
   - Solution

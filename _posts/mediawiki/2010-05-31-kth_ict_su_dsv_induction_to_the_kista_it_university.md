@@ -2,7 +2,6 @@
 title: KTH.ICT SU.DSV Induction to the Kista IT University
 author: mediawiki
 layout: post
-permalink: /2010/05/kth_ict_su_dsv_induction_to_the_kista_it_university/
 categories:
   - Uncategorized
 ---

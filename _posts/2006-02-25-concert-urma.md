@@ -2,7 +2,6 @@
 title: Concert - Urma
 author: Andrei
 layout: post
-permalink: /2006/02/concert-urma/
 categories:
   - Definition
   - Likes

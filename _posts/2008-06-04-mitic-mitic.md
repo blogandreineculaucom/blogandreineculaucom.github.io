@@ -2,7 +2,6 @@
 title: Mític = mitíc
 author: Andrei
 layout: post
-permalink: /2008/06/mitic-mitic/
 categories:
   - Dislikes
   - Phylosophy

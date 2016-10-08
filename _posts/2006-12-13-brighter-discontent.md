@@ -2,7 +2,6 @@
 title: Brighter Discontent
 author: Andrei
 layout: post
-permalink: /2006/12/brighter-discontent/
 categories:
   - Likes
 tags:

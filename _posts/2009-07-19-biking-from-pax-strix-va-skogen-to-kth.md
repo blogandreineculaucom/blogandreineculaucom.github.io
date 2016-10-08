@@ -2,7 +2,6 @@
 title: Biking from Pax/Strix/V:a Skogen to KTH
 author: Andrei
 layout: post
-permalink: /2009/07/biking-from-pax-strix-va-skogen-to-kth/
 categories:
   - Likes
   - Sweden

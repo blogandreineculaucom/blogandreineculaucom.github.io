@@ -2,7 +2,6 @@
 title: \"Friends\" in misery
 author: Andrei
 layout: post
-permalink: /2007/07/friends-in-misery/
 categories:
   - I/Me/My
   - Information Technology

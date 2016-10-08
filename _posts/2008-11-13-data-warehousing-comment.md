@@ -2,7 +2,6 @@
 title: Data Warehousing Comment
 author: Andrei
 layout: post
-permalink: /2008/11/data-warehousing-comment/
 categories:
   - Activist
   - Dislikes

@@ -2,7 +2,6 @@
 title: Andrei died
 author: Andrei
 layout: post
-permalink: /2009/02/andreidied/
 categories:
   - I/Me/My
   - Sweden

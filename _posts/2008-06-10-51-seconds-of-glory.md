@@ -2,7 +2,6 @@
 title: 51 seconds of glory
 author: Andrei
 layout: post
-permalink: /2008/06/51-seconds-of-glory/
 categories:
   - Likes
   - Romania

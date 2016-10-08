@@ -2,7 +2,6 @@
 title: Windows XP missing icons in notification area
 author: Andrei
 layout: post
-permalink: /2006/03/windows-xp-missing-icons-in-notification-area/
 categories:
   - Information Technology
   - Solution

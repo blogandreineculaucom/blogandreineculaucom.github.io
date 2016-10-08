@@ -2,7 +2,6 @@
 title: The future Bucharest
 author: Andrei
 layout: post
-permalink: /2008/06/the-future-bucharest/
 categories:
   - Dislikes
   - Romania

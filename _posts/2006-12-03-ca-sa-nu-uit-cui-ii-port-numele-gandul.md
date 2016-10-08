@@ -2,7 +2,6 @@
 title: Ca să nu uit cui îi port numele... (Gândul)
 author: Andrei
 layout: post
-permalink: /2006/12/ca-sa-nu-uit-cui-ii-port-numele-gandul/
 categories:
   - Definition
   - Romania

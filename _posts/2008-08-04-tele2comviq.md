@@ -2,7 +2,6 @@
 title: Tele2/Comviq
 author: Andrei
 layout: post
-permalink: /2008/08/tele2comviq/
 series_part:
   - 3
   - 3

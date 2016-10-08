@@ -2,7 +2,6 @@
 title: Gmail IMAP in Windows Mail/Outlook
 author: Andrei
 layout: post
-permalink: /2007/11/gmail-imap-in-windows-mailoutlook/
 categories:
   - Information Technology
   - Solution

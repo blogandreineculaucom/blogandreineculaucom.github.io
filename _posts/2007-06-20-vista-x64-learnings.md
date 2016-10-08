@@ -2,7 +2,6 @@
 title: Vista x64 - Learnings
 author: Andrei
 layout: post
-permalink: /2007/06/vista-x64-learnings/
 categories:
   - Information Technology
   - Solution

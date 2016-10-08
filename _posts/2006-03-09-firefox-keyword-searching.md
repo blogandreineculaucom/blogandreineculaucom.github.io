@@ -2,7 +2,6 @@
 title: Firefox Keyword Searching
 author: Andrei
 layout: post
-permalink: /2006/03/firefox-keyword-searching/
 categories:
   - Information Technology
   - Solution

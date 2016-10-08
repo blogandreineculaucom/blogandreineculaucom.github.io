@@ -2,7 +2,6 @@
 title: Swedish lack of responsibility
 author: Andrei
 layout: post
-permalink: /2008/09/swedish-lack-of-responsibility/
 series_part:
   - 35
   - 35

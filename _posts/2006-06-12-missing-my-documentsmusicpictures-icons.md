@@ -2,7 +2,6 @@
 title: Missing My Documents/Music/Pictures icons
 author: Andrei
 layout: post
-permalink: /2006/06/missing-my-documentsmusicpictures-icons/
 categories:
   - Information Technology
   - Solution

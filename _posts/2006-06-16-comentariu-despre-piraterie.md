@@ -2,7 +2,6 @@
 title: Comentariu despre piraterie
 author: Andrei
 layout: post
-permalink: /2006/06/comentariu-despre-piraterie/
 categories:
   - Information Technology
   - Romania

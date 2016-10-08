@@ -2,7 +2,6 @@
 title: Firefox for Broadband
 author: Andrei
 layout: post
-permalink: /2006/03/firefox-for-broadband/
 categories:
   - Information Technology
   - Solution

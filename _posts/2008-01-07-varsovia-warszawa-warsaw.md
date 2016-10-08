@@ -2,7 +2,6 @@
 title: Varşovia / Warszawa / Warsaw
 author: Andrei
 layout: post
-permalink: /2008/01/varsovia-warszawa-warsaw/
 categories:
   - International Citizen
 tags:

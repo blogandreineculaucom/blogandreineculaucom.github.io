@@ -2,7 +2,6 @@
 title: 'G8: Time to lead on climate change'
 author: Andrei
 layout: post
-permalink: /2008/06/g8-time-to-lead-on-climate-change/
 categories:
   - Activist
   - International Citizen

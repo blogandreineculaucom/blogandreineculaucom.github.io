@@ -2,7 +2,6 @@
 title: Politeness, respect, wording
 author: Andrei
 layout: post
-permalink: /2008/05/politeness-respect-wording/
 categories:
   - Dislikes
   - Favs

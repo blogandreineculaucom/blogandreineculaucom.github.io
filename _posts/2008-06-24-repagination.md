@@ -2,7 +2,6 @@
 title: Repagination
 author: Andrei
 layout: post
-permalink: /2008/06/repagination/
 categories:
   - Information Technology
   - Solution

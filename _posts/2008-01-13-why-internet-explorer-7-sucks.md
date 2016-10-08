@@ -2,7 +2,6 @@
 title: Why Internet Explorer 7 S.U.C.K.S. !
 author: Andrei
 layout: post
-permalink: /2008/01/why-internet-explorer-7-sucks/
 categories:
   - Information Technology
 tags:

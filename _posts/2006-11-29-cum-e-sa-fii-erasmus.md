@@ -2,7 +2,6 @@
 title: Cum e să fii Erasmus :)
 author: Andrei
 layout: post
-permalink: /2006/11/cum-e-sa-fii-erasmus/
 categories:
   - International Citizen
   - Romania

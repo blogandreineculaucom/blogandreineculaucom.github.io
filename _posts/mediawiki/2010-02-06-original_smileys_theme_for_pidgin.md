@@ -2,7 +2,6 @@
 title: Original Smileys Theme for Pidgin
 author: mediawiki
 layout: post
-permalink: /2010/02/original_smileys_theme_for_pidgin/
 categories:
   - Uncategorized
 ---

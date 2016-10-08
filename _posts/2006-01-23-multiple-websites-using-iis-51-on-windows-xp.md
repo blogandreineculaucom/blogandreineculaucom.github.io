@@ -2,7 +2,6 @@
 title: Multiple websites using IIS 5.1 on Windows XP
 author: Andrei
 layout: post
-permalink: /2006/01/multiple-websites-using-iis-51-on-windows-xp/
 categories:
   - Information Technology
   - Solution

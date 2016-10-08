@@ -2,7 +2,6 @@
 title: Non-Human Resources Management
 author: Andrei
 layout: post
-permalink: /2007/10/non-human-resources-management/
 categories:
   - Activist
   - International Citizen

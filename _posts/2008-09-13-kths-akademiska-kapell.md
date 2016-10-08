@@ -2,7 +2,6 @@
 title: KTHs Akademiska Kapell
 author: Andrei
 layout: post
-permalink: /2008/09/kths-akademiska-kapell/
 series_part:
   - 7
   - 7

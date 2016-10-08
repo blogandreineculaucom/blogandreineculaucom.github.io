@@ -2,7 +2,6 @@
 title: Custom Keyboard Layouts with Romanian Diacritics
 author: mediawiki
 layout: post
-permalink: /2008/12/custom_keyboard_layouts_with_romanian_diacritics/
 categories:
   - Uncategorized
 ---

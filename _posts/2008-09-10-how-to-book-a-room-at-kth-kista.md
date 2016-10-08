@@ -2,7 +2,6 @@
 title: How to book a room at KTH Kista
 author: Andrei
 layout: post
-permalink: /2008/09/how-to-book-a-room-at-kth-kista/
 series_part:
   - 6
   - 6

@@ -2,7 +2,6 @@
 title: I bought a bicycle!
 author: Andrei
 layout: post
-permalink: /2009/02/i-bought-a-bicycle/
 categories:
   - Definition
   - Likes

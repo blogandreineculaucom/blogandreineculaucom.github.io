@@ -2,7 +2,6 @@
 title: Studera.nu National Admissions to Higher Studies in Sweden
 author: mediawiki
 layout: post
-permalink: /2009/08/studera_nu_national_admissions_to_higher_studies_in_sweden/
 categories:
   - Uncategorized
 ---

@@ -2,7 +2,6 @@
 title: The Smiles 'round The Corner
 author: Andrei
 layout: post
-permalink: /2007/12/the-smiles-round-the-corner/
 categories:
   - Solution
 ---

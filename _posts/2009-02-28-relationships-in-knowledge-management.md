@@ -2,7 +2,6 @@
 title: Relationships in Knowledge Management
 author: Andrei
 layout: post
-permalink: /2009/02/relationships-in-knowledge-management/
 categories:
   - Definition
   - Education

@@ -2,7 +2,6 @@
 title: (we'll be) Bringing common sense into unis' IT life
 author: Andrei
 layout: post
-permalink: /2009/09/well-be-bringing-common-sense-into-unis-it-life/
 categories:
   - Education
   - Information Technology

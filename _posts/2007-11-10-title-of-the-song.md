@@ -2,7 +2,6 @@
 title: Title of the Song?
 author: Andrei
 layout: post
-permalink: /2007/11/title-of-the-song/
 categories:
   - Likes
 tags:

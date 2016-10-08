@@ -2,7 +2,6 @@
 title: WWW - Why, Why, Why? - INTRODUCTION
 author: Andrei
 layout: post
-permalink: /2005/08/www-why-why-why-introduction/
 categories:
   - I/Me/My
 ---

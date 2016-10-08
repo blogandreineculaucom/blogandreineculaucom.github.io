@@ -2,7 +2,6 @@
 title: Spirit and matter
 author: Andrei
 layout: post
-permalink: /2006/08/spirit-and-matter/
 categories:
   - Definition
   - Likes

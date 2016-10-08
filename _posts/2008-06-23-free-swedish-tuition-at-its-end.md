@@ -2,7 +2,6 @@
 title: Free Swedish tuition at its end?
 author: Andrei
 layout: post
-permalink: /2008/06/free-swedish-tuition-at-its-end/
 series_part:
   - 6
   - 6

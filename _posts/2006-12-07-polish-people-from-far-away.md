@@ -2,7 +2,6 @@
 title: Polish people - from far away
 author: Andrei
 layout: post
-permalink: /2006/12/polish-people-from-far-away/
 categories:
   - International Citizen
   - Likes

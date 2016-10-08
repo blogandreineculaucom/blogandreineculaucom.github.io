@@ -2,7 +2,6 @@
 title: Shared Kitchen - Corridor Rules
 author: Andrei
 layout: post
-permalink: /2009/09/shared-kitchen-corridor-rules/
 categories:
   - Activist
   - Favs

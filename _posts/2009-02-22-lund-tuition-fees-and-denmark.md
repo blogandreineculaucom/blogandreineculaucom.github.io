@@ -2,7 +2,6 @@
 title: Lund, Tuition Fees and Denmark
 author: Andrei
 layout: post
-permalink: /2009/02/lund-tuition-fees-and-denmark/
 categories:
   - International Citizen
   - Sweden

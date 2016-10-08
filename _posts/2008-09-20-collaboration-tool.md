@@ -2,7 +2,6 @@
 title: Collaboration Tool
 author: Andrei
 layout: post
-permalink: /2008/09/collaboration-tool/
 series_part:
   - 8
   - 8

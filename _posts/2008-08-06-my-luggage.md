@@ -2,7 +2,6 @@
 title: My luggage
 author: Andrei
 layout: post
-permalink: /2008/08/my-luggage/
 series_part:
   - 6
   - 6

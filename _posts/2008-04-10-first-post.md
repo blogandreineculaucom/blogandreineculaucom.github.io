@@ -2,7 +2,6 @@
 title: First post
 author: Andrei
 layout: post
-permalink: /2008/04/first-post/
 views:
   - 43
   - 43

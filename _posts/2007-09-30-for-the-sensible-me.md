@@ -2,7 +2,6 @@
 title: for the sensible-me
 author: Andrei
 layout: post
-permalink: /2007/09/for-the-sensible-me/
 categories:
   - Definition
   - Phylosophy

@@ -2,7 +2,6 @@
 title: HP QuickPlay & QP Direct 2.3 Re-install
 author: Andrei
 layout: post
-permalink: /2007/02/hp-quickplay-qp-direct-23-re-install/
 categories:
   - Information Technology
   - Solution

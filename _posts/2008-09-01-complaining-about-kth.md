@@ -2,7 +2,6 @@
 title: Complaining about KTH
 author: Andrei
 layout: post
-permalink: /2008/09/complaining-about-kth/
 series_part:
   - 26
   - 26

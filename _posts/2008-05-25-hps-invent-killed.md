@@ -2,7 +2,6 @@
 title: HP's "invent" - killed
 author: Andrei
 layout: post
-permalink: /2008/05/hps-invent-killed/
 categories:
   - Dislikes
   - Information Technology

@@ -2,7 +2,6 @@
 title: Towards Enhanced E-collaboration in Academia
 author: Andrei
 layout: post
-permalink: /2008/12/towards-enhanced-e-collaboration-in-academia/
 series_part:
   - 10
   - 10

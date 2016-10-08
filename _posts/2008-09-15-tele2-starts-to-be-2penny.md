@@ -2,7 +2,6 @@
 title: Tele2 starts to be 2Penny
 author: Andrei
 layout: post
-permalink: /2008/09/tele2-starts-to-be-2penny/
 series_part:
   - 33
   - 33

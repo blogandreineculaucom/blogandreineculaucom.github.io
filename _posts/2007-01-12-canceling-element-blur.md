@@ -2,7 +2,6 @@
 title: Canceling element Blur
 author: Andrei
 layout: post
-permalink: /2007/01/canceling-element-blur/
 categories:
   - Information Technology
   - Solution

@@ -2,7 +2,6 @@
 title: 21st century is past, it's almost middle-aged
 author: Andrei
 layout: post
-permalink: /2006/12/21st-century-is-past-its-almost-middle-aged/
 categories:
   - Likes
   - Romania

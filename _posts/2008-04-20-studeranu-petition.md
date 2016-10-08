@@ -2,7 +2,6 @@
 title: Studera.nu - Petition
 author: Andrei
 layout: post
-permalink: /2008/04/studeranu-petition/
 series_part:
   - 2
   - 2

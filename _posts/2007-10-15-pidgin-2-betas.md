@@ -2,7 +2,6 @@
 title: Pidgin 2 Betas
 author: Andrei
 layout: post
-permalink: /2007/10/pidgin-2-betas/
 categories:
   - Information Technology
   - Solution

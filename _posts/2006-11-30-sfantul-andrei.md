@@ -2,7 +2,6 @@
 title: Sfântul Andrei
 author: Andrei
 layout: post
-permalink: /2006/11/sfantul-andrei/
 categories:
   - Definition
   - Romania

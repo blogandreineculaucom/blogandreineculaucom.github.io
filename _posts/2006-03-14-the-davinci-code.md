@@ -2,7 +2,6 @@
 title: The DaVinci Code
 author: Andrei
 layout: post
-permalink: /2006/03/the-davinci-code/
 categories:
   - Activist
   - Definition

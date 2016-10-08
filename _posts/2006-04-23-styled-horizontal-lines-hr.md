@@ -2,7 +2,6 @@
 title: Styled Horizontal Lines - HR
 author: Andrei
 layout: post
-permalink: /2006/04/styled-horizontal-lines-hr/
 categories:
   - Information Technology
   - Solution

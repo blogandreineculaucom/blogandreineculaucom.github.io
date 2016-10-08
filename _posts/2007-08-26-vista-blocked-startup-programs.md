@@ -2,7 +2,6 @@
 title: Vista - Blocked Startup Programs
 author: Andrei
 layout: post
-permalink: /2007/08/vista-blocked-startup-programs/
 categories:
   - Information Technology
   - Solution

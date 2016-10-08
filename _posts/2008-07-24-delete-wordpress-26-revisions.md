@@ -2,7 +2,6 @@
 title: Delete WordPress 2.6 Revisions
 author: Andrei
 layout: post
-permalink: /2008/07/delete-wordpress-26-revisions/
 categories:
   - Information Technology
   - Solution

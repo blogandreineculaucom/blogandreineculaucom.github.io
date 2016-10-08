@@ -2,7 +2,6 @@
 title: Switching from PHP 4 to PHP 5
 author: Andrei
 layout: post
-permalink: /2006/05/switching-from-php-4-to-php-5/
 categories:
   - Information Technology
   - Solution

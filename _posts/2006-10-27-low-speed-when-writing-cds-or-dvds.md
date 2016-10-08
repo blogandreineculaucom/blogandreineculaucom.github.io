@@ -2,7 +2,6 @@
 title: Low Speed when writing CDs or DVDs
 author: Andrei
 layout: post
-permalink: /2006/10/low-speed-when-writing-cds-or-dvds/
 categories:
   - Information Technology
   - Solution

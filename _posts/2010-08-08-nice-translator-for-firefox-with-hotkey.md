@@ -2,7 +2,6 @@
 title: Nice Translator for Firefox (with Hotkey)
 author: Andrei
 layout: post
-permalink: /2010/08/nice-translator-for-firefox-with-hotkey/
 categories:
   - Information Technology
   - Solution

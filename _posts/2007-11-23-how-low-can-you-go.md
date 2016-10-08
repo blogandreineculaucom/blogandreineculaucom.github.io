@@ -2,7 +2,6 @@
 title: How low can you go?
 author: Andrei
 layout: post
-permalink: /2007/11/how-low-can-you-go/
 categories:
   - Information Technology
   - International Citizen

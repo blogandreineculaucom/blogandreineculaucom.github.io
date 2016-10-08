@@ -2,7 +2,6 @@
 title: Kista vs. Västra Skogen
 author: Andrei
 layout: post
-permalink: /2008/08/kista-vs-vastra-skogen/
 series_part:
   - 16
   - 16

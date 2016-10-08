@@ -2,7 +2,6 @@
 title: Open letter to Svenska Bostäder
 author: Andrei
 layout: post
-permalink: /2009/02/open-letter-to-svenska-bostader/
 categories:
   - Activist
   - Definition

@@ -2,7 +2,6 @@
 title: Blaga DA, Lișinschi NA
 author: Andrei
 layout: post
-permalink: /2008/05/blaga-da-lisinschi-na/
 categories:
   - Romania
 tags:

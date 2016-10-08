@@ -2,7 +2,6 @@
 title: Future of web browsers
 author: Andrei
 layout: post
-permalink: /2006/05/future-of-web-browsers/
 categories:
   - Favs
   - Information Technology

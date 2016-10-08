@@ -2,7 +2,6 @@
 title: Organize Series for WordPress 2.6
 author: Andrei
 layout: post
-permalink: /2008/07/organize-series-for-wordpress-26/
 categories:
   - Information Technology
   - Solution

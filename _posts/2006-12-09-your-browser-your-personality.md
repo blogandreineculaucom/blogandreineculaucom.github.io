@@ -2,7 +2,6 @@
 title: Your browser, your personality
 author: Andrei
 layout: post
-permalink: /2006/12/your-browser-your-personality/
 categories:
   - I/Me/My
   - Information Technology

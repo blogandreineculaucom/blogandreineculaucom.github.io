@@ -2,7 +2,6 @@
 title: ...and not receiving
 author: Andrei
 layout: post
-permalink: /2006/04/and-not-receiving/
 categories:
   - Likes
   - Phylosophy

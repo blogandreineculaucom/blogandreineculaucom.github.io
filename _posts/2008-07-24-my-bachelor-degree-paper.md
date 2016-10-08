@@ -2,7 +2,6 @@
 title: My Bachelor Degree Paper
 author: Andrei
 layout: post
-permalink: /2008/07/my-bachelor-degree-paper/
 series_part:
   - 1
   - 1

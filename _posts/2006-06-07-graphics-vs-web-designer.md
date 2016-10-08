@@ -2,7 +2,6 @@
 title: Graphics vs Web Designer
 author: Andrei
 layout: post
-permalink: /2006/06/graphics-vs-web-designer/
 categories:
   - Information Technology
   - Phylosophy

@@ -2,7 +2,6 @@
 title: MediaWiki showing no Recent Changes
 author: Andrei
 layout: post
-permalink: /2009/01/mediawiki-showing-no-recent-changes/
 categories:
   - I/Me/My
   - Information Technology

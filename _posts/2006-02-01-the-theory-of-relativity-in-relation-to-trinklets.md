@@ -2,7 +2,6 @@
 title: The Theory of Relativity in relation to... Trinklets
 author: Andrei
 layout: post
-permalink: /2006/02/the-theory-of-relativity-in-relation-to-trinklets/
 categories:
   - I/Me/My
   - Phylosophy

@@ -2,7 +2,6 @@
 title: \"Why\" RELOADED
 author: Andrei
 layout: post
-permalink: /2007/06/why-reloaded/
 categories:
   - I/Me/My
 ---

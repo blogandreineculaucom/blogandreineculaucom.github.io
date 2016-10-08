@@ -2,7 +2,6 @@
 title: Twitter, Plurk, Facebook, RSS, Lifestream
 author: Andrei
 layout: post
-permalink: /2008/11/twitter-plurk-facebook-rss-lifestream/
 categories:
   - I/Me/My
   - Information Technology

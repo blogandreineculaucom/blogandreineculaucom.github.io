@@ -2,7 +2,6 @@
 title: Christmas Letter 2008
 author: Andrei
 layout: post
-permalink: /2008/12/christmas-letter-2008/
 categories:
   - Definition
   - Favs

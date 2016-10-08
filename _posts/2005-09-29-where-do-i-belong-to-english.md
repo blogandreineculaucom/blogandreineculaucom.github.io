@@ -2,7 +2,6 @@
 title: Where do I belong to - English
 author: Andrei
 layout: post
-permalink: /2005/09/where-do-i-belong-to-english/
 categories:
   - Definition
   - International Citizen

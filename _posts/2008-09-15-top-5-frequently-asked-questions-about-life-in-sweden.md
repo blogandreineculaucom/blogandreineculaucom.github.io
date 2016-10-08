@@ -2,7 +2,6 @@
 title: Top 5 Frequently Asked Questions about Life in Sweden
 author: Andrei
 layout: post
-permalink: /2008/09/top-5-frequently-asked-questions-about-life-in-sweden/
 categories:
   - Likes
   - Sweden

@@ -2,7 +2,6 @@
 title: KTH - the come back
 author: Andrei
 layout: post
-permalink: /2009/04/kth-the-come-back/
 categories:
   - Activist
   - Dislikes

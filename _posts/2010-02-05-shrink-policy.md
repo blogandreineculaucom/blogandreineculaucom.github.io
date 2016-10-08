@@ -2,7 +2,6 @@
 title: Shrink policy
 author: Andrei
 layout: post
-permalink: /2010/02/shrink-policy/
 categories:
   - Definition
   - Education

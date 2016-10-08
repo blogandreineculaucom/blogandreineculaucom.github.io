@@ -2,7 +2,6 @@
 title: Râsete de o dimineaţă de duminică
 author: Andrei
 layout: post
-permalink: /2006/11/rasete-de-o-dimineata-de-duminica/
 categories:
   - Definition
   - International Citizen

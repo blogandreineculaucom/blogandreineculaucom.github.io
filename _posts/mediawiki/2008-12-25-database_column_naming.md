@@ -2,7 +2,6 @@
 title: Database Column Naming
 author: mediawiki
 layout: post
-permalink: /2008/12/database_column_naming/
 categories:
   - Uncategorized
 ---

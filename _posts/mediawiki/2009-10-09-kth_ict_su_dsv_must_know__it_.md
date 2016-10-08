@@ -2,7 +2,6 @@
 title: KTH.ICT SU.DSV Must Know (IT)
 author: mediawiki
 layout: post
-permalink: /2009/10/kth_ict_su_dsv_must_know__it_/
 categories:
   - Uncategorized
 ---

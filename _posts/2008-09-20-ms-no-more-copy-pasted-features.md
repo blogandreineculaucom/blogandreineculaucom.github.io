@@ -2,7 +2,6 @@
 title: 'MS: no more copy-pasted features?'
 author: Andrei
 layout: post
-permalink: /2008/09/ms-no-more-copy-pasted-features/
 categories:
   - Information Technology
   - Likes

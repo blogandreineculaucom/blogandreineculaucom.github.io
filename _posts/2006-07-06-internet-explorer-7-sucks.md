@@ -2,7 +2,6 @@
 title: Internet Explorer 7 S.U.C.K.S. !
 author: Andrei
 layout: post
-permalink: /2006/07/internet-explorer-7-sucks/
 categories:
   - Activist
   - Dislikes

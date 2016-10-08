@@ -2,7 +2,6 @@
 title: Global Education Week
 author: Andrei
 layout: post
-permalink: /2006/04/global-education-week/
 categories:
   - Activist
   - International Citizen

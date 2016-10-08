@@ -2,7 +2,6 @@
 title: KTH Webhost
 author: Andrei
 layout: post
-permalink: /2008/08/kth-webhost/
 series_part:
   - 4
   - 4

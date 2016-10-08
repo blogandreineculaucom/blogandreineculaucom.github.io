@@ -2,7 +2,6 @@
 title: Miljöstation
 author: Andrei
 layout: post
-permalink: /2008/08/miljostation/
 series_part:
   - 17
   - 17

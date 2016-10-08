@@ -2,7 +2,6 @@
 title: YouTube and Romanian TV
 author: Andrei
 layout: post
-permalink: /2008/07/youtube-and-romanian-tv/
 categories:
   - Activist
   - Information Technology

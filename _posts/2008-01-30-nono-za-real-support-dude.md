@@ -2,7 +2,6 @@
 title: no,no... za real support dude
 author: Andrei
 layout: post
-permalink: /2008/01/nono-za-real-support-dude/
 categories:
   - Information Technology
 tags:

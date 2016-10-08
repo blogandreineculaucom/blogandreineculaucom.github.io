@@ -2,7 +2,6 @@
 title: WLW & WordPress
 author: Andrei
 layout: post
-permalink: /2008/01/wlw-wordpress/
 categories:
   - Information Technology
   - Solution

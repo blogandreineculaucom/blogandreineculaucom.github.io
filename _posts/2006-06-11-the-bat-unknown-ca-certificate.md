@@ -2,7 +2,6 @@
 title: The Bat! - Unknown CA Certificate
 author: Andrei
 layout: post
-permalink: /2006/06/the-bat-unknown-ca-certificate/
 categories:
   - Information Technology
   - Solution

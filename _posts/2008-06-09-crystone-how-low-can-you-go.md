@@ -2,7 +2,6 @@
 title: Crystone - How low can you go?
 author: Andrei
 layout: post
-permalink: /2008/06/crystone-how-low-can-you-go/
 series_part:
   - 3
   - 3

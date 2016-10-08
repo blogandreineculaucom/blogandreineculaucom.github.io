@@ -2,7 +2,6 @@
 title: Trac on Dreamhost
 author: Andrei
 layout: post
-permalink: /2010/11/trac-on-dreamhost/
 categories:
   - Information Technology
   - Social

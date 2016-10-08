@@ -2,7 +2,6 @@
 title: Draga noastră ţară... în 10 fraze
 author: Andrei
 layout: post
-permalink: /2006/12/draga-noastra-tara-in-10-fraze/
 categories:
   - Dislikes
   - Romania

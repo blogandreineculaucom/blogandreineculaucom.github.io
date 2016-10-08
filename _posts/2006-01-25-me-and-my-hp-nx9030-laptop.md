@@ -2,7 +2,6 @@
 title: Me and my HP nx9030  laptop
 author: Andrei
 layout: post
-permalink: /2006/01/me-and-my-hp-nx9030-laptop/
 categories:
   - I/Me/My
   - Information Technology

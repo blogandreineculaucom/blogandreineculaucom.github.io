@@ -2,7 +2,6 @@
 title: Crystone's 3rd-last
 author: Andrei
 layout: post
-permalink: /2008/04/crystones-3rd-last/
 series_part:
   - 2
   - 2

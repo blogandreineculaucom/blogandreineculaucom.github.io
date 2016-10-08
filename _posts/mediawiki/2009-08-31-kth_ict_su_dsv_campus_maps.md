@@ -2,7 +2,6 @@
 title: KTH.ICT SU.DSV Campus Maps
 author: mediawiki
 layout: post
-permalink: /2009/08/kth_ict_su_dsv_campus_maps/
 categories:
   - Uncategorized
 ---

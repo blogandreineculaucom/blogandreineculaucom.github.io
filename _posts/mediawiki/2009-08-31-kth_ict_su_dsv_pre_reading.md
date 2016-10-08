@@ -2,7 +2,6 @@
 title: KTH.ICT SU.DSV Pre-reading
 author: mediawiki
 layout: post
-permalink: /2009/08/kth_ict_su_dsv_pre_reading/
 categories:
   - Uncategorized
 ---

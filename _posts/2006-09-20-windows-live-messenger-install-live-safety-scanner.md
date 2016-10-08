@@ -2,7 +2,6 @@
 title: Windows Live Messenger - Install Live Safety Scanner
 author: Andrei
 layout: post
-permalink: /2006/09/windows-live-messenger-install-live-safety-scanner/
 categories:
   - Information Technology
   - Solution

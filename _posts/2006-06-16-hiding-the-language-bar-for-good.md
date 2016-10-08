@@ -2,7 +2,6 @@
 title: Hiding the Language Bar for good
 author: Andrei
 layout: post
-permalink: /2006/06/hiding-the-language-bar-for-good/
 categories:
   - Information Technology
   - Solution

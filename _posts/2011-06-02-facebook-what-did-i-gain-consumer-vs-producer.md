@@ -2,7 +2,6 @@
 title: Facebook - what did I gain? Consumer vs producer
 author: Andrei
 layout: post
-permalink: /2011/06/facebook-what-did-i-gain-consumer-vs-producer/
 categories:
   - Dislikes
   - I/Me/My

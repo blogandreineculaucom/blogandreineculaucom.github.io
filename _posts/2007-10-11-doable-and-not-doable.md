@@ -2,7 +2,6 @@
 title: Doable and not Doable
 author: Andrei
 layout: post
-permalink: /2007/10/doable-and-not-doable/
 categories:
   - I/Me/My
   - Phylosophy

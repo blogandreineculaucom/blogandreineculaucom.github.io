@@ -2,7 +2,6 @@
 title: Remote debugging with xdebug 2.1 and Zend Studio 8
 author: Andrei
 layout: post
-permalink: /2010/12/remote-debugging-with-xdebug-2-1-and-zend-studio-8/
 categories:
   - Information Technology
   - Likes

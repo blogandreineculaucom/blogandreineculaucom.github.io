@@ -2,7 +2,6 @@
 title: In a block with position:relative, no background!
 author: Andrei
 layout: post
-permalink: /2007/01/in-a-block-with-positionrelative-no-background/
 categories:
   - Information Technology
 tags:

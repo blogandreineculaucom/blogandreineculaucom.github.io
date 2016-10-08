@@ -2,7 +2,6 @@
 title: The Amazing Race in Romania
 author: Andrei
 layout: post
-permalink: /2009/03/the-amazing-race-in-romania/
 categories:
   - International Citizen
   - Romania

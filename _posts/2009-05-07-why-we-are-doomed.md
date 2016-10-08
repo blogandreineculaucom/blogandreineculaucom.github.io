@@ -2,7 +2,6 @@
 title: Why we are doomed?...
 author: Andrei
 layout: post
-permalink: /2009/05/why-we-are-doomed/
 categories:
   - Dislikes
   - Information Technology

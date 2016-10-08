@@ -2,7 +2,6 @@
 title: Bringing back the snail mail
 author: Andrei
 layout: post
-permalink: /2009/02/bringing-back-the-snail-mail/
 categories:
   - Definition
   - Favs

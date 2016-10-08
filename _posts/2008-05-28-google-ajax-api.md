@@ -2,7 +2,6 @@
 title: Google AJAX API
 author: Andrei
 layout: post
-permalink: /2008/05/google-ajax-api/
 categories:
   - Information Technology
   - Likes

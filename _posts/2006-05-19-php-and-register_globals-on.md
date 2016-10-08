@@ -2,7 +2,6 @@
 title: PHP and register_globals ON!!!
 author: Andrei
 layout: post
-permalink: /2006/05/php-and-register_globals-on/
 categories:
   - Information Technology
   - Solution

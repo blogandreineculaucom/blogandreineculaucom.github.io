@@ -2,7 +2,6 @@
 title: Allianz-Țiriac
 author: Andrei
 layout: post
-permalink: /2008/06/allianz-tiriac/
 categories:
   - I/Me/My
   - Romania

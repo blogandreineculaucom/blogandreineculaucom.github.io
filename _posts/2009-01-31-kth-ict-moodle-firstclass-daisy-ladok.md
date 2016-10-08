@@ -2,7 +2,6 @@
 title: KTH (ICT) - Moodle, FirstClass, Daisy, Ladok..
 author: Andrei
 layout: post
-permalink: /2009/01/kth-ict-moodle-firstclass-daisy-ladok/
 categories:
   - Dislikes
   - Education

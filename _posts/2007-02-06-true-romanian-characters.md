@@ -2,7 +2,6 @@
 title: True Romanian characters
 author: Andrei
 layout: post
-permalink: /2007/02/true-romanian-characters/
 categories:
   - Information Technology
   - Solution

@@ -2,7 +2,6 @@
 title: Swedish HP Support
 author: Andrei
 layout: post
-permalink: /2007/08/swedish-hp-support/
 categories:
   - I/Me/My
   - Information Technology

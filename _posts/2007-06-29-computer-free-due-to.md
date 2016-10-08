@@ -2,7 +2,6 @@
 title: Computer free due to..
 author: Andrei
 layout: post
-permalink: /2007/06/computer-free-due-to/
 categories:
   - I/Me/My
   - Information Technology

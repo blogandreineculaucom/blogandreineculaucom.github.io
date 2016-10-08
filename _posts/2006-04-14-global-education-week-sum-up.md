@@ -2,7 +2,6 @@
 title: Global Education Week - Sum up
 author: Andrei
 layout: post
-permalink: /2006/04/global-education-week-sum-up/
 categories:
   - Activist
   - International Citizen

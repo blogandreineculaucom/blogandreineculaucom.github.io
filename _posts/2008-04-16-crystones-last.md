@@ -2,7 +2,6 @@
 title: Crystone's last
 author: Andrei
 layout: post
-permalink: /2008/04/crystones-last/
 series_part:
   - 1
   - 1

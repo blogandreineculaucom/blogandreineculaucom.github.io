@@ -2,7 +2,6 @@
 title: Scrisoare către generaţia noastră
 author: Andrei
 layout: post
-permalink: /2007/10/scrisoare-catre-generatia-noastra/
 categories:
   - Activist
   - Likes

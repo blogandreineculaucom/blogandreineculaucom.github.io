@@ -2,7 +2,6 @@
 title: Remote KTH/SU
 author: Andrei
 layout: post
-permalink: /2009/05/remote-kthsu/
 categories:
   - Education
   - Information Technology

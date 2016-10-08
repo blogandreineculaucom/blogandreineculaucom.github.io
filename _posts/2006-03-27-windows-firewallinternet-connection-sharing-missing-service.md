@@ -2,7 +2,6 @@
 title: Windows Firewall/Internet Connection Sharing  - Missing Service
 author: Andrei
 layout: post
-permalink: /2006/03/windows-firewallinternet-connection-sharing-missing-service/
 categories:
   - Information Technology
   - Solution

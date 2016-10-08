@@ -2,7 +2,6 @@
 title: LSRS & a communication exercise
 author: Andrei
 layout: post
-permalink: /2009/02/lsrs-a-communication-exercise/
 categories:
   - Definition
   - Dislikes

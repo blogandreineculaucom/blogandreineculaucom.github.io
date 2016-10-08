@@ -2,7 +2,6 @@
 title: Clinton - Obama
 author: Andrei
 layout: post
-permalink: /2008/01/clinton-obama/
 categories:
   - International Citizen
 tags:

@@ -2,7 +2,6 @@
 title: No WordPress (Super) Cache on Dreamhost
 author: Andrei
 layout: post
-permalink: /2008/11/no-wordpress-cache-on-dreamhost/
 categories:
   - Information Technology
   - Solution

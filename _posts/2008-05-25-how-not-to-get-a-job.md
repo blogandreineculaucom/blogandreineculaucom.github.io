@@ -2,7 +2,6 @@
 title: How (not) to get a job
 author: Andrei
 layout: post
-permalink: /2008/05/how-not-to-get-a-job/
 categories:
   - Romania
   - Social

@@ -2,7 +2,6 @@
 title: Studera.nu Admission
 author: mediawiki
 layout: post
-permalink: /2010/07/studera_nu_admission/
 categories:
   - Uncategorized
 ---

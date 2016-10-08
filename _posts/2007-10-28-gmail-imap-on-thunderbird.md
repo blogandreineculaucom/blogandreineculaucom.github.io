@@ -2,7 +2,6 @@
 title: Gmail IMAP on Thunderbird
 author: Andrei
 layout: post
-permalink: /2007/10/gmail-imap-on-thunderbird/
 categories:
   - Information Technology
   - Solution

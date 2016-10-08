@@ -2,7 +2,6 @@
 title: Cliché - The light at the end of the tunnel
 author: Andrei
 layout: post
-permalink: /2008/07/cliche-the-light-at-the-end-of-the-tunnel/
 series_part:
   - 2
   - 2

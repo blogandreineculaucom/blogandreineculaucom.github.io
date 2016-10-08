@@ -2,7 +2,6 @@
 title: Windows Vista
 author: Andrei
 layout: post
-permalink: /2007/06/windows-vista/
 categories:
   - Information Technology
   - Solution

@@ -2,7 +2,6 @@
 title: Word 2007 Building Blocks Fix - DHTML Nirvana
 author: Andrei
 layout: post
-permalink: /2006/10/word-2007-building-blocks-fix-dhtml-nirvana/
 categories:
   - Information Technology
   - Solution

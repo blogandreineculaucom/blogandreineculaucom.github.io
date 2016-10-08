@@ -2,7 +2,6 @@
 title: Studera.nu Application
 author: mediawiki
 layout: post
-permalink: /2010/01/studera_nu_application/
 categories:
   - Uncategorized
 ---

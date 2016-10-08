@@ -2,7 +2,6 @@
 title: Do you want a room in Kista (Stockholm)?
 author: Andrei
 layout: post
-permalink: /2009/01/do-you-want-a-room-in-kista-stockholm/
 categories:
   - I/Me/My
   - Sweden

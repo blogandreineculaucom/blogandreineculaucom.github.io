@@ -2,7 +2,6 @@
 title: Black November 20
 author: Andrei
 layout: post
-permalink: /2008/11/black-november-20/
 categories:
   - Dislikes
   - Information Technology

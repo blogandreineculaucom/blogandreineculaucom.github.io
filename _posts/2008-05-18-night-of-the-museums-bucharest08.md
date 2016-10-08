@@ -2,7 +2,6 @@
 title: Night of the Museums Bucharest'08
 author: Andrei
 layout: post
-permalink: /2008/05/night-of-the-museums-bucharest08/
 categories:
   - Dislikes
   - Romania

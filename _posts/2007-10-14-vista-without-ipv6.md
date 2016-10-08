@@ -2,7 +2,6 @@
 title: Vista without IPv6
 author: Andrei
 layout: post
-permalink: /2007/10/vista-without-ipv6/
 categories:
   - Information Technology
   - Solution

@@ -2,7 +2,6 @@
 title: Leapşa cu jocurile
 author: Andrei
 layout: post
-permalink: /2007/04/leapsa-cu-jocurile/
 categories:
   - Definition
   - I/Me/My

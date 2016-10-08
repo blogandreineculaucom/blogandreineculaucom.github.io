@@ -2,7 +2,6 @@
 title: Realitatea.net - live audio
 author: Andrei
 layout: post
-permalink: /2007/08/realitateanet-live-audio/
 categories:
   - Activist
   - Romania

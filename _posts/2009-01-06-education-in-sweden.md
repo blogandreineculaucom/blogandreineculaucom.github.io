@@ -2,7 +2,6 @@
 title: Education in Sweden
 author: Andrei
 layout: post
-permalink: /2009/01/education-in-sweden/
 categories:
   - Dislikes
   - Education

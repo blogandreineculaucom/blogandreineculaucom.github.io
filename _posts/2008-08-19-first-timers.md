@@ -2,7 +2,6 @@
 title: First timers
 author: Andrei
 layout: post
-permalink: /2008/08/first-timers/
 series_part:
   - 12
   - 12

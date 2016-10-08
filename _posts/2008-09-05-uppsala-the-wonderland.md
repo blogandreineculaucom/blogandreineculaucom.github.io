@@ -2,7 +2,6 @@
 title: Uppsala - the wonderland
 author: Andrei
 layout: post
-permalink: /2008/09/uppsala-the-wonderland/
 series_part:
   - 27
   - 27

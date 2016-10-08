@@ -2,7 +2,6 @@
 title: Keyboard Layouts?!
 author: Andrei
 layout: post
-permalink: /2007/06/keyboard-layouts/
 categories:
   - Information Technology
   - Solution

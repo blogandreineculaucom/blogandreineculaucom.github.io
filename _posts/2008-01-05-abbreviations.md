@@ -2,7 +2,6 @@
 title: Abbreviations
 author: Andrei
 layout: post
-permalink: /2008/01/abbreviations/
 categories:
   - Solution
 tags:

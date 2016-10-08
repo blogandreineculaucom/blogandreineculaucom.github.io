@@ -2,7 +2,6 @@
 title: Eye-lid surgery
 author: Andrei
 layout: post
-permalink: /2006/03/eye-lid-surgery/
 categories:
   - Dislikes
   - I/Me/My

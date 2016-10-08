@@ -2,7 +2,6 @@
 title: Grading in Sweden
 author: Andrei
 layout: post
-permalink: /2009/01/grading-in-sweden/
 categories:
   - Definition
   - Dislikes

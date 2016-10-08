@@ -2,7 +2,6 @@
 title: Start Skype logged on as invisible
 author: Andrei
 layout: post
-permalink: /2009/04/start-skype-logged-on-as-invisible/
 categories:
   - Information Technology
   - Solution

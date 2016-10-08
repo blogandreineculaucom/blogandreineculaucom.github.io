@@ -2,7 +2,6 @@
 title: Aliens first in the US, now in Sweden
 author: Andrei
 layout: post
-permalink: /2009/02/aliens-first-in-the-us-now-in-sweden/
 categories:
   - Dislikes
   - Sweden

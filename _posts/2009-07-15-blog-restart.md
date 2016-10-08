@@ -2,7 +2,6 @@
 title: Blog Restart
 author: Andrei
 layout: post
-permalink: /2009/07/blog-restart/
 categories:
   - Likes
 ---

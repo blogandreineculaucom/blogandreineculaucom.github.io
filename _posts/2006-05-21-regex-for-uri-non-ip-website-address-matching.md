@@ -2,7 +2,6 @@
 title: RegEx for URI (non IP) (website) matching
 author: Andrei
 layout: post
-permalink: /2006/05/regex-for-uri-non-ip-website-address-matching/
 categories:
   - Information Technology
   - Solution

@@ -2,7 +2,6 @@
 title: Where I'll be in Lodz
 author: Andrei
 layout: post
-permalink: /2006/12/where-ill-be-in-lodz/
 categories:
   - International Citizen
 tags:
