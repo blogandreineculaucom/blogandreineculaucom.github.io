@@ -44,7 +44,14 @@ gist:
 gems:
   - jekyll-coffeescript
   - jekyll-feed
+  # - jekyll-gist
+  # - jekyll-github-metadata
   - jekyll-mentions
+  # - jekyll-paginate
   - jekyll-redirect-from
+  # - jekyll-sass-converter
+  # - jekyll-seo-tag
   - jekyll-sitemap
+  # - jekyll-swiss
+  # - jekyll-watch
   - jemoji
