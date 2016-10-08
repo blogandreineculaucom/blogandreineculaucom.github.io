@@ -6,12 +6,6 @@ permalink: /2009/09/kth_ict_su_dsv_must_have/
 categories:
   - Uncategorized
 ---
-{| align="right"  
-|- valign="top"  
-| \_\_TOC\_\_  
-| [[Image:KTH.ICT.SU.DSV.jpg|200px|center]]{{:KTH.ICT SU.DSV TOC}}  
-|}
-
 ==Personnummer==  
 *"'Get it as fast as possible after your arrival"'
 

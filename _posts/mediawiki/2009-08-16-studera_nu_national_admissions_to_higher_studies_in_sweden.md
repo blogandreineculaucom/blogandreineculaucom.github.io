@@ -6,11 +6,6 @@ permalink: /2009/08/studera_nu_national_admissions_to_higher_studies_in_sweden/
 categories:
   - Uncategorized
 ---
-{| align="right"  
-|- valign="top"  
-| \_\_TOC\_\_  
-| [[Image:Studera.nu.jpg|center]]{{:Studera.nu TOC}}  
-|}
 
 ## Introduction
 
@@ -104,7 +99,5 @@ In July 2009, an "operational status blog" has been launched - http://vhsdriftin
 ## Side talk
 
 In 2008, [[Studera.nu Community|a nice community]] has built around the admission process to higher studies in Sweden. You can easily [[Studera.nu Community|join the community]] on Facebook. You will not only find it useful, but you will be able to build some nice relationships with your future colleagues.
-
-{{:Studera.nu Blog}}
 
 \[[Category:Projects]\] \[[Category:Studera.nu\]]

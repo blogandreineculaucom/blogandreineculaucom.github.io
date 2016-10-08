@@ -6,12 +6,6 @@ permalink: /2009/03/studera_nu_pre_admission/
 categories:
   - Uncategorized
 ---
-{| align="right"  
-|- valign="top"  
-| \_\_TOC\_\_  
-| [[Image:Studera.nu.jpg|center]]{{:Studera.nu TOC}}  
-|}
-
 # Purgatory
 
 "'Tagline: Separating the goods from the bads.."'

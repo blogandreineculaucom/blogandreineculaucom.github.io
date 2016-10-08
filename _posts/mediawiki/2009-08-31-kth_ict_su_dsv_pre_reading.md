@@ -6,12 +6,6 @@ permalink: /2009/08/kth_ict_su_dsv_pre_reading/
 categories:
   - Uncategorized
 ---
-{| align="right"  
-|- valign="top"  
-| \_\_TOC\_\_  
-| [[Image:KTH.ICT.SU.DSV.jpg|200px|center]]{{:KTH.ICT SU.DSV TOC}}  
-|}
-
 ==KTH (General)==  
 ===KTH Handbook for Master's Students===
 

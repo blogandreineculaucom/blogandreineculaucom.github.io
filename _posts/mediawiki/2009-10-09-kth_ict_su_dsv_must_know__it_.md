@@ -6,12 +6,6 @@ permalink: /2009/10/kth_ict_su_dsv_must_know__it_/
 categories:
   - Uncategorized
 ---
-{| align="right"  
-|- valign="top"  
-| \_\_TOC\_\_  
-| [[Image:KTH.ICT.SU.DSV.jpg|200px|center]]{{:KTH.ICT SU.DSV TOC}}  
-|}
-
 Please read [http://www.kth.se/student/support/ict/1.4788?l=en_UK your responsibilities regarding your usage of the KTH ICT facilities] and [http://dsv.su.se/en/internal/comp/rules/ of the DSV facilities].
 
 ==Computer & Internet Access==

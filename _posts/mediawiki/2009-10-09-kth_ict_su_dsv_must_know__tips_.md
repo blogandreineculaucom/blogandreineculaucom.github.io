@@ -6,12 +6,6 @@ permalink: /2009/10/kth_ict_su_dsv_must_know__tips_/
 categories:
   - Uncategorized
 ---
-{| align="right"  
-|- valign="top"  
-| \_\_TOC\_\_  
-| [[Image:KTH.ICT.SU.DSV.jpg|200px|center]]{{:KTH.ICT SU.DSV TOC}}  
-|}
-
 ==Socializing==  
 One of the main advantages that you have is that you are among other enthusiastic people, and at some point you might need their skills.
 

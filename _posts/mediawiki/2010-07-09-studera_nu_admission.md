@@ -6,12 +6,6 @@ permalink: /2010/07/studera_nu_admission/
 categories:
   - Uncategorized
 ---
-{| align="right"  
-|- valign="top"  
-| \_\_TOC\_\_  
-| [[Image:Studera.nu.jpg|center]]{{:Studera.nu TOC}}  
-|}
-
 # The Aftermath
 
 "'Tagline: Breath in, breath out.. Breath in, breath out.."'

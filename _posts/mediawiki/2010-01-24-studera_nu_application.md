@@ -6,12 +6,6 @@ permalink: /2010/01/studera_nu_application/
 categories:
   - Uncategorized
 ---
-{| align="right"  
-|- valign="top"  
-| \_\_TOC\_\_  
-| [[Image:Studera.nu.jpg|center]]{{:Studera.nu TOC}}  
-|}
-
 # The War
 
 "'Tagline: Win the application battle. Worry about the admission later!"'

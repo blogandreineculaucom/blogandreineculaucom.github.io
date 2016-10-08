@@ -6,12 +6,6 @@ permalink: /2009/09/kth_ict_su_dsv_must_know__general_/
 categories:
   - Uncategorized
 ---
-{| align="right"  
-|- valign="top"  
-| \_\_TOC\_\_  
-| [[Image:KTH.ICT.SU.DSV.jpg|200px|center]]{{:KTH.ICT SU.DSV TOC}}  
-|}
-
 ==Respect==
 
 There's a respect towards the others and then there's the respect towards yourself. Nevertheless, they should blend perfectly.

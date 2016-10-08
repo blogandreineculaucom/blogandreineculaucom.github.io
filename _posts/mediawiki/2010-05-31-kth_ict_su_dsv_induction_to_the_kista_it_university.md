@@ -6,12 +6,6 @@ permalink: /2010/05/kth_ict_su_dsv_induction_to_the_kista_it_university/
 categories:
   - Uncategorized
 ---
-{| align="right"  
-|- valign="top"  
-| \_\_TOC\_\_  
-| [[Image:KTH.ICT.SU.DSV.jpg|150px|center]]{{:KTH.ICT SU.DSV TOC}}  
-|}
-
 ==Word to READERS==
 
 This resource is now (20090830) almost entirely written. Whatever is lacking has been marked with some hints or with links to related content, and will be rewritten at my own pace.
